@@ -49,3 +49,13 @@ test_file:
 ..##
 .##.
 ```
+output:
+```
+.AABB..
+AACCB..
+.CC.BDD
+.EE.DD.
+EEFFGG.
+.FFGGHH
+....HH.
+```
